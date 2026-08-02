@@ -1,20 +1,3 @@
-# ARGUS - All-seeing Recon & General Unified Security
-
-```
-     █████╗ ██████╗  ██████╗ ██╗   ██╗███████╗
-    ██╔══██╗██╔══██╗██╔════╝ ██║   ██║██╔════╝
-    ███████║██████╔╝██║  ███╗██║   ██║███████╗
-    ██╔══██║██╔══██╗██║   ██║██║   ██║╚════██║
-    ██║  ██║██║  ██║╚██████╔╝╚██████╔╝███████║
-    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝
-```
-
-**v5.4.0** // 82 tools across four categories + AI Search + Botnet Mode
-
-ARGUS is a comprehensive terminal-based OSINT and security toolkit written in Python. It provides **82 tools** organized into four categories (reconnaissance, exploitation testing, stress testing, and phishing simulation), all accessible through an interactive two-column menu. It includes an **AI Search** feature that uses natural language to find the best tool for your needs, a **Botnet Mode** that automatically collects WordPress sites with both `system.multicall` and `pingback.ping` XML-RPC vectors and uses them as multicall pingback amplifiers, and a hardened **Stealth Mode** with multi-layer anonymization: Tor/SOCKS5/HTTP proxy routing, IPv6 leak blocking, DNS leak prevention, full HTTP fingerprint randomization, MAC address spoofing, and Tor circuit rotation.
-
----
-
 ## Table of Contents
 
 - [Disclaimer](#disclaimer)
